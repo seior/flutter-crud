@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "507586200135",
+    "project_id": "fktugas-65cab",
+    "storage_bucket": "fktugas-65cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507586200135:android:6a00dad29afa869e422762",
+        "android_client_info": {
+          "package_name": "com.seiortech.fktugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507586200135-jc7e0448su2acgdm19sk5kg7jsg41pld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seiortech.fktugas",
+            "certificate_hash": "03c754d15d3911de957d5156e45d6013aee051eb"
+          }
+        },
+        {
+          "client_id": "507586200135-9palcpqnfe3lm2rkmnvu4e7s6ec2atus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTj6mw3TbcGeKFYqEHIf5cQwRTxgCZi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507586200135-9palcpqnfe3lm2rkmnvu4e7s6ec2atus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
